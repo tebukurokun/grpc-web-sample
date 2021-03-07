@@ -9,3 +9,4 @@ A high performance, open source universal RPC framework
 - https://github.com/grpc/grpc-web
 - https://grpc.io/
 - https://svelte.dev/
+- https://www.envoyproxy.io/
